@@ -1,1 +1,1 @@
-echo "research/* linguist-vendored" > .gitattributes
+research/** linguist-vendored
